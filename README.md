@@ -17,7 +17,8 @@ Sou **Caroline Zolet**, mãe, estudante de **Análise e Desenvolvimento de Siste
 - **Áreas de Interesse**: Inteligência Artificial, Desenvolvimento Web e Engenharia de Software.
 
 ---
-
+![Caroline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carol-zolet&show_icons=true&theme=radical)
+---
 ## 📌 Conecte-se Comigo!
 - [LinkedIn](https://linkedin.com/in/caroline-zolet) 
 - [Meu Portfólio de Minimercado](https://carol-zolet.github.io/minimercado.projeto/)
