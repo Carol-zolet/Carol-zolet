@@ -23,7 +23,7 @@ Sou **Caroline Zolet**, mãe, estudante de **Análise e Desenvolvimento de Siste
 - [Meu Portfólio de Minimercado](https://carol-zolet.github.io/minimercado.projeto/)
 
 💡 *Sinta-se à vontade para explorar meus projetos e entrar em contato. Estou em busca de oportunidades para crescer como programadora!*
-
+---
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
