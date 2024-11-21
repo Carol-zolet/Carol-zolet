@@ -19,7 +19,7 @@ Sou **Caroline Zolet**, mãe, estudante de **Análise e Desenvolvimento de Siste
 ---
 
 ## 📌 Conecte-se Comigo!
-- [LinkedIn](https://linkedin.com/in/caroline-zolet) *(adicionar o link ao seu perfil do LinkedIn)*
+- [LinkedIn](https://linkedin.com/in/caroline-zolet) 
 - [Meu Portfólio de Minimercado](https://carol-zolet.github.io/minimercado.projeto/)
 
 💡 *Sinta-se à vontade para explorar meus projetos e entrar em contato. Estou em busca de oportunidades para crescer como programadora!*
