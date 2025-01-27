@@ -1,6 +1,6 @@
 # 👋 Bem-vindo(a) ao Perfil da Caroline Zolet!
 
-Sou **Caroline Zolet**, mãe, estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **programação, inteligência artificial** e pela **criação de soluções tecnológicas**. Atualmente, estou no **segundo semestre** e trabalho como monitora de crianças especiais, conciliando minha vida acadêmica e profissional com muito foco e dedicação.
+Sou **Caroline Zolet**, mãe, estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **programação, inteligência artificial** e pela **criação de soluções tecnológicas**. Atualmente, estou no ** terceiro semestre** e trabalho como monitora de crianças especiais, conciliando minha vida acadêmica e profissional com muito foco e dedicação.
 
 ## 💼 O que você encontrará aqui?
 - **🚀 Projetos em desenvolvimento**:
