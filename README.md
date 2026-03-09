@@ -10,9 +10,6 @@ Desenvolvedora de Software | Análise e Desenvolvimento de Sistemas (PUCRS)
 
 Com foco em criar soluções eficientes e escaláveis, atuo no desenvolvimento Full Stack com ênfase em Python (FastAPI), C# e React. Tenho experiência prática em automação de processos (Node.js/TypeScript) e desenvolvimento mobile (React Native/Flutter).
 
-Sou uma profissional disciplinada, organizada e com forte habilidade de autogerenciamento, características que aprimorei através de experiências anteriores em TI e suporte técnico em modelo remoto.
-
-🚀 Buscando ativamente oportunidades de desenvolvimento (Júnior/Estágio) 100% Home Office.
 
 Minhas Tecnologias:
 
