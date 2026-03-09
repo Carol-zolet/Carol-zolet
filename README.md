@@ -6,19 +6,20 @@
 
 ---
 
-👩‍💻 Desenvolvedora em formação | Análise e Desenvolvimento de Sistemas (PUCRS)
+Desenvolvedora de Software | Análise e Desenvolvimento de Sistemas (PUCRS)
 
-Com sólida base acadêmica e experiência prática em TI, foco meu desenvolvimento na criação de soluções eficientes tanto em Backend (Python, C#) quanto em Frontend (React). Sou uma profissional disciplinada, organizada e com forte habilidade de autogerenciamento, características que aprimorei no trabalho remoto.
+Com foco em criar soluções eficientes e escaláveis, atuo no desenvolvimento Full Stack com ênfase em Python (FastAPI), C# e React. Tenho experiência prática em automação de processos (Node.js/TypeScript) e desenvolvimento mobile (React Native/Flutter).
 
-🚀 Buscando ativamente novas oportunidades de desenvolvimento 100% Home Office.
+Sou uma profissional disciplinada, organizada e com forte habilidade de autogerenciamento, características que aprimorei através de experiências anteriores em TI e suporte técnico em modelo remoto.
 
-🔧 Minhas Tecnologias:
+🚀 Buscando ativamente oportunidades de desenvolvimento (Júnior/Estágio) 100% Home Office.
 
-Backend: Python (FastAPI), C#, Node.js
+Minhas Tecnologias:
 
-Frontend: React, JavaScript, HTML5, CSS3, Material-UI
+Backend: Python, C#, Node.js, Prisma ORM.
 
-Banco de Dados: SQL (PostgreSQL, SQL Server)
+Frontend: React, JavaScript, HTML5/CSS3, Material-UI.
 
-Ferramentas: Git, Docker (em constante aprendizado)
+Mobile: React Native, Flutter.
 
+Bancos de Dados: PostgreSQL, SQL Server.
