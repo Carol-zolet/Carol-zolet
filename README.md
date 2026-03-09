@@ -6,17 +6,19 @@
 
 ---
 
-👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas (PUCRS) e atual Estagiária de TI.
+👩‍💻 Desenvolvedora em formação | Análise e Desenvolvimento de Sistemas (PUCRS)
 
-Meu foco é o desenvolvimento de software, com experiência prática em Backend (Python, C#) e Frontend (React, HTML, CSS, JavaScript). Sou uma profissional disciplinada, organizada e proativa, com forte habilidade de autogerenciamento, essencial para o trabalho remoto.
+Com sólida base acadêmica e experiência prática em TI, foco meu desenvolvimento na criação de soluções eficientes tanto em Backend (Python, C#) quanto em Frontend (React). Sou uma profissional disciplinada, organizada e com forte habilidade de autogerenciamento, características que aprimorei no trabalho remoto.
 
-**🚀 Estou buscando ativamente uma oportunidade de estágio 100% home office.**
+🚀 Buscando ativamente novas oportunidades de desenvolvimento 100% Home Office.
 
-### 🔧 Minhas Tecnologias:
+🔧 Minhas Tecnologias:
 
-* **Backend:** Python (FastAPI), C#, Node.js
-* **Frontend:** React, JavaScript, HTML5, CSS3, Material-UI
-* **Banco de Dados:** SQL (PostgreSQL, SQL Server)
-* **Ferramentas:** Git, Docker (Aprendendo)
+Backend: Python (FastAPI), C#, Node.js
 
+Frontend: React, JavaScript, HTML5, CSS3, Material-UI
+
+Banco de Dados: SQL (PostgreSQL, SQL Server)
+
+Ferramentas: Git, Docker (em constante aprendizado)
 
