@@ -1,22 +1,43 @@
-### Olá, eu sou a Caroline Zolet! 👋
+## Olá, eu sou a Caroline (Carol) Zolet 👋
 
-<a href="https://www.linkedin.com/in/carolinezolet0516/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+Desenvolvedora em formação (ADS - PUCRS), construindo uma trajetória focada em
+**Rust**, **back-end** e **segurança / IA**. Estagiária de TI com sistema em
+produção e projetos reais de impacto social.
+
+🔭 **No momento:** bootcamp Rust Fullstack (Santander/DIO)
+🌱 **Foco de carreira:** cibersegurança, LLM Security e AI Red Team
+📍 Nova Prata, RS
 
 ---
 
-Desenvolvedora de Software | Análise e Desenvolvimento de Sistemas (PUCRS)
+### 🚀 Projetos em destaque
 
-Com foco em criar soluções eficientes e escaláveis, atuo no desenvolvimento Full Stack com ênfase em Python (FastAPI), C# e React. Tenho experiência prática em automação de processos (Node.js/TypeScript) e desenvolvimento mobile (React Native/Flutter).
+**AmigodoTEA** — App de apoio a pessoas com TEA, em parceria com o Instituto Círculo TEAmo.
+Monorepo com três serviços: mobile (React Native + Expo), API (NestJS) e IA com
+arquitetura RAG. 🏆 Reconhecido no Pitch Day PUCRS Online 2026.
+`React Native` `NestJS` `RAG` `TypeScript` `Python`
 
+**Carteira de Investimentos (Rust)** — Aplicação fullstack do desafio DIO/Santander.
+Back-end em Axum + SQLx + PostgreSQL, templates com Askama.
+[Ver repositório »](https://github.com/Carol-zolet/rust-fullstack-carteira-investimentos)
+`Rust` `Axum` `PostgreSQL`
 
-Minhas Tecnologias:
+**Automação de RH (26fit)** — Sistema em produção que automatiza processos de RH,
+com mais de 175 deploys e manutenção contínua. `Node.js` `TypeScript`
 
-Backend: Python, C#, Node.js, Prisma ORM.
+**Academic RAG** — Assistente de IA com RAG para suporte acadêmico em ADS.
+`RAG` `Node.js` `IA`
 
-Frontend: React, JavaScript, HTML5/CSS3, Material-UI.
+---
 
-Mobile: React Native, Flutter.
+### 🛠️ Tecnologias
 
-Bancos de Dados: PostgreSQL, SQL Server.
+**Linguagens:** Rust · TypeScript · JavaScript · Python · C#
+**Back-end:** Axum · NestJS · Node.js · PostgreSQL
+**Mobile:** React Native · Expo
+**IA / Segurança:** RAG · LLM Security (em estudo) · OWASP LLM Top 10
+
+---
+
+### 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/carolinezolet0516/) · carolinezolet@gmail.com
