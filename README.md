@@ -1,8 +1,7 @@
 ## Olá, eu sou a Caroline (Carol) Zolet 👋
 
 Desenvolvedora em formação (ADS - PUCRS), construindo uma trajetória focada em
-**Rust**, **back-end** e **segurança / IA**. Estagiária de TI com sistema em
-produção e projetos reais de impacto social.
+**Rust**, **back-end** e **segurança / IA**.
 
 🔭 **No momento:** bootcamp Rust Fullstack (Santander/DIO)
 🌱 **Foco de carreira:** cibersegurança, LLM Security e AI Red Team
